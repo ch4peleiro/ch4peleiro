@@ -27,7 +27,12 @@
 
 <details> 
   <summary>Projects</summary>
-
+<br>
+  
+| Projects | Tags |
+| --- | --- |
+| [**Seraph Network**](https://github.com/Seraph-Network) | <img src="https://lh3.googleusercontent.com/proxy/IWTILYnCSki9P_mriS0kUHRl93l4SQLKv8tu7YkYvklfD-TH8mLLRzMi00b2mNI8LifpN_gyO9bX5A0ulQt06PzWbKyysNY_" height="30px" width="30px"/>| 
+  
 </detais>
 
 
