@@ -53,7 +53,7 @@ funciton learning() {
 <p align="center"> My GitHub status information.
 </p>
  
-<a href="https://github.com/G3ZZING"><img src="https://github-readme-stats.vercel.app/api?username=G3ZZING&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=000000&icon_color=000000&text_color=000000&bg_color=0,e6f1eb,000000"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=G3ZZING&title_color=000000&text_color=000000&bg_color=0,e6f1eb,000000"> 
+<a href="https://github.com/ch4peleiro"><img src="https://github-readme-stats.vercel.app/api?username=ch4peleiro&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=fff&icon_color=fff&text_color=fff&bg_color=0,0dcc00,000000"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ch4peleiro&title_color=fff&text_color=fff&bg_color=0,0dcc00,000000"> 
 </details>
 
 ---
